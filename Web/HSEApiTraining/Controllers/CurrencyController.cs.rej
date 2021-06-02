@@ -1,0 +1,25 @@
+diff a/HSEApiTraining/Controllers/CurrencyController.cs b/HSEApiTraining/Controllers/CurrencyController.cs	(rejected hunks)
+@@ -7,20 +7,10 @@
+     [ApiController]
+     public class CurrencyController : Controller
+     {
+-        // Объект типа ICurrenceService для работы контроллера.
+-        private readonly ICurrencyService _currencyService;
+-
+-        public CurrencyController(ICurrencyService currencyService)
+-        {
+-            _currencyService = currencyService;
+-        }
+-
+-        [HttpPost]
+-        public CurrencyResponse CurrencyMethod([FromBody] CurrencyRequest Request)
++        [HttpGet]
++        public IActionResult DummyMethod()
+         {
+-            CurrencyResponse response = new CurrencyResponse();
+-            response = _currencyService.GetCurrencyRates(Request);
+-            return response;
++            return View();
+         }
+     }
+ }

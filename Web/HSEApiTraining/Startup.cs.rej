@@ -1,0 +1,9 @@
+diff a/HSEApiTraining/Startup.cs b/HSEApiTraining/Startup.cs	(rejected hunks)
+@@ -40,6 +40,7 @@
+             services.AddMvc().SetCompatibilityVersion(CompatibilityVersion.Version_2_1);
+             services.AddSwaggerGen(c =>
+             {
++                c.SwaggerDoc("v1", new OpenApiInfo { Title = "HSE Training App", Version = "v1" });
+             });
+         }
+ 

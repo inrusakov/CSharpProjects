@@ -1,0 +1,86 @@
+diff a/HSEApiTraining/Controllers/CalculatorController.cs b/HSEApiTraining/Controllers/CalculatorController.cs	(rejected hunks)
+@@ -1,8 +1,6 @@
+ ﻿using HSEApiTraining.Models.Calculator;
+ using Microsoft.AspNetCore.Mvc;
+-using System.Collections.Generic;
+ using System.Linq;
+-using HSEApiTraining.Models.Events;
+ 
+ namespace HSEApiTraining.Controllers
+ {
+@@ -11,65 +9,31 @@
+     public class CalculatorController : ControllerBase
+     {
+         private readonly ICalculatorService _calculatorService;
+-        // В конструкторе контроллера происходит инъекция сервисов через их интерфейсы.
++        //В конструкторе контроллера происходит инъекция сервисов через их интерфейсы
+         public CalculatorController(ICalculatorService calculatorService)
+         {
+             _calculatorService = calculatorService;
+         }
+ 
+-        // Переменная, содержащая текст ошибки.
+-        static string textError = "null";
+-
+-        /// <summary>
+-        /// Метод получения текста ошибки из CalculatorService.
+-        /// </summary>
+-        /// <param name="error">Текст ошибки</param>
+-        public static void GetTextError(object sender, ErrorTextEventArgs e) => textError = e.Error;
+-
+         [HttpGet]
+         public CalculatorResponse Calculate([FromQuery] string expression)
+         {
+-            // Результат вычисления выражения.
+-            CalculatorResponse response = new CalculatorResponse();
+-
+-            // Вычисление выражения.
+-            response.Value = _calculatorService.CalculateExpression(expression);
+-            // Привязка текста ошибки.
+-            response.Error = textError;
+-            textError = null;
+-
+-            return response;
++            //Тут нужно подключить реализованную в сервисе calculatorService логику вычисления выражений
++            //В нижнем методе - аналогично
++            var result = _calculatorService.CalculateExpression(expression);
++            return new CalculatorResponse
++            {
++                Value = result
++            };
+         }
+ 
+         [HttpPost]
+         public CalculatorBatchResponse CalculateBatch([FromBody] CalculatorBatchRequest Request)
+         {
+-            // Общая ошибка всего списка.
+-            string totalError = null;
+-
+-            // Список подготовленных ответов.
+-            List<CalculatorResponse> answers = new List<CalculatorResponse>();
+-            if (Request.Expressions.Count() == 0) totalError = "Empty file";
+-            for (int i = 0; i < Request.Expressions.Count(); i++)
+-            {
+-                // Вычисление выражение и сохранение результата в список.
+-                answers.Add(Calculate(Request.Expressions.ElementAt(i)));
+-            }
+-
+-            // Определение общей ошибки.
+-            for (int i = 0; i < answers.Count; i++)
+-            {
+-                // Если имеем хотя бы одну ошибку в списке.
+-                if (answers[i].Error != null)
+-                {
+-                    totalError = "Something went wrong";
+-                }
+-            }
+-            // Если не имеем ошибок в списке.
++            //Тут организуйте подсчет и формирование ответа сами
+             return new CalculatorBatchResponse
+             {
+-                Values = answers,
+-                Error = totalError
++                Values = Request.Expressions.Select(x => new CalculatorResponse { Value = x.Length })
+             };
+         }
+ 

@@ -1,0 +1,9 @@
+diff a/HSEApiTraining/Controllers/DummyController.cs b/HSEApiTraining/Controllers/DummyController.cs	(rejected hunks)
+@@ -7,7 +7,6 @@
+     [ApiController]
+     public class DummyController : Controller
+     {
+-        private readonly IDummyService _dummyService;
+         private readonly Random rand;
+ 
+         public DummyController()
