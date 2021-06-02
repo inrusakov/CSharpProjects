@@ -1,0 +1,7 @@
+C:\Users\xiaomi\Desktop\Учеба\C#\Лабораторные\Laba2\laba\obj\Debug\laba.csprojAssemblyReference.cache
+C:\Users\xiaomi\Desktop\Учеба\C#\Лабораторные\Laba2\laba\obj\Debug\laba.csproj.CoreCompileInputs.cache
+C:\Users\xiaomi\Desktop\Учеба\C#\Лабораторные\Laba2\laba\bin\Debug\laba.exe.config
+C:\Users\xiaomi\Desktop\Учеба\C#\Лабораторные\Laba2\laba\bin\Debug\laba.exe
+C:\Users\xiaomi\Desktop\Учеба\C#\Лабораторные\Laba2\laba\bin\Debug\laba.pdb
+C:\Users\xiaomi\Desktop\Учеба\C#\Лабораторные\Laba2\laba\obj\Debug\laba.exe
+C:\Users\xiaomi\Desktop\Учеба\C#\Лабораторные\Laba2\laba\obj\Debug\laba.pdb

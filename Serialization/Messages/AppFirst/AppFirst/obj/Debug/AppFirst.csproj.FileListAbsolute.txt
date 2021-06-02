@@ -1,0 +1,11 @@
+C:\Users\xiaomi\Desktop\Work\C#\Семинар 4 модуль\кр\AppFirst\AppFirst\bin\Debug\AppFirst.exe.config
+C:\Users\xiaomi\Desktop\Work\C#\Семинар 4 модуль\кр\AppFirst\AppFirst\bin\Debug\AppFirst.exe
+C:\Users\xiaomi\Desktop\Work\C#\Семинар 4 модуль\кр\AppFirst\AppFirst\bin\Debug\AppFirst.pdb
+C:\Users\xiaomi\Desktop\Work\C#\Семинар 4 модуль\кр\AppFirst\AppFirst\bin\Debug\MessageLib.dll
+C:\Users\xiaomi\Desktop\Work\C#\Семинар 4 модуль\кр\AppFirst\AppFirst\bin\Debug\MessageLib.pdb
+C:\Users\xiaomi\Desktop\Work\C#\Семинар 4 модуль\кр\AppFirst\AppFirst\obj\Debug\AppFirst.csprojAssemblyReference.cache
+C:\Users\xiaomi\Desktop\Work\C#\Семинар 4 модуль\кр\AppFirst\AppFirst\obj\Debug\AppFirst.csproj.CopyComplete
+C:\Users\xiaomi\Desktop\Work\C#\Семинар 4 модуль\кр\AppFirst\AppFirst\obj\Debug\AppFirst.exe
+C:\Users\xiaomi\Desktop\Work\C#\Семинар 4 модуль\кр\AppFirst\AppFirst\obj\Debug\AppFirst.pdb
+C:\Users\xiaomi\Desktop\Work\C#\Семинар 4 модуль\кр\AppFirst\AppFirst\bin\Debug\Newtonsoft.Json.dll
+C:\Users\xiaomi\Desktop\Work\C#\Семинар 4 модуль\кр\AppFirst\AppFirst\bin\Debug\Newtonsoft.Json.xml

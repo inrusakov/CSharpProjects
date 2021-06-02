@@ -1,0 +1,5 @@
+C:\Users\xiaomi\Desktop\Work\C#\Семинар 4 модуль\кр\AppFirst\MessageLib\bin\Debug\MessageLib.dll
+C:\Users\xiaomi\Desktop\Work\C#\Семинар 4 модуль\кр\AppFirst\MessageLib\bin\Debug\MessageLib.pdb
+C:\Users\xiaomi\Desktop\Work\C#\Семинар 4 модуль\кр\AppFirst\MessageLib\obj\Debug\MessageLib.csprojAssemblyReference.cache
+C:\Users\xiaomi\Desktop\Work\C#\Семинар 4 модуль\кр\AppFirst\MessageLib\obj\Debug\MessageLib.dll
+C:\Users\xiaomi\Desktop\Work\C#\Семинар 4 модуль\кр\AppFirst\MessageLib\obj\Debug\MessageLib.pdb

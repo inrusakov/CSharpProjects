@@ -1,0 +1,6 @@
+C:\Users\xiaomi\Desktop\Учеба\C#\Семинар 3 модуль\Работа на семинарах\Семинар 2\Calsses\bin\Debug\Calsses.exe.config
+C:\Users\xiaomi\Desktop\Учеба\C#\Семинар 3 модуль\Работа на семинарах\Семинар 2\Calsses\bin\Debug\Calsses.exe
+C:\Users\xiaomi\Desktop\Учеба\C#\Семинар 3 модуль\Работа на семинарах\Семинар 2\Calsses\bin\Debug\Calsses.pdb
+C:\Users\xiaomi\Desktop\Учеба\C#\Семинар 3 модуль\Работа на семинарах\Семинар 2\Calsses\obj\Debug\Classes.csprojAssemblyReference.cache
+C:\Users\xiaomi\Desktop\Учеба\C#\Семинар 3 модуль\Работа на семинарах\Семинар 2\Calsses\obj\Debug\Calsses.exe
+C:\Users\xiaomi\Desktop\Учеба\C#\Семинар 3 модуль\Работа на семинарах\Семинар 2\Calsses\obj\Debug\Calsses.pdb

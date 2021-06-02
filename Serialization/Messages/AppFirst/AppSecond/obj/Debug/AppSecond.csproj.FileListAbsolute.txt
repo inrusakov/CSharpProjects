@@ -1,0 +1,11 @@
+C:\Users\xiaomi\Desktop\Work\C#\Семинар 4 модуль\кр\AppFirst\AppSecond\bin\Debug\AppSecond.exe.config
+C:\Users\xiaomi\Desktop\Work\C#\Семинар 4 модуль\кр\AppFirst\AppSecond\bin\Debug\AppSecond.exe
+C:\Users\xiaomi\Desktop\Work\C#\Семинар 4 модуль\кр\AppFirst\AppSecond\bin\Debug\AppSecond.pdb
+C:\Users\xiaomi\Desktop\Work\C#\Семинар 4 модуль\кр\AppFirst\AppSecond\bin\Debug\MessageLib.dll
+C:\Users\xiaomi\Desktop\Work\C#\Семинар 4 модуль\кр\AppFirst\AppSecond\bin\Debug\Newtonsoft.Json.dll
+C:\Users\xiaomi\Desktop\Work\C#\Семинар 4 модуль\кр\AppFirst\AppSecond\bin\Debug\MessageLib.pdb
+C:\Users\xiaomi\Desktop\Work\C#\Семинар 4 модуль\кр\AppFirst\AppSecond\bin\Debug\Newtonsoft.Json.xml
+C:\Users\xiaomi\Desktop\Work\C#\Семинар 4 модуль\кр\AppFirst\AppSecond\obj\Debug\AppSecond.csproj.CopyComplete
+C:\Users\xiaomi\Desktop\Work\C#\Семинар 4 модуль\кр\AppFirst\AppSecond\obj\Debug\AppSecond.exe
+C:\Users\xiaomi\Desktop\Work\C#\Семинар 4 модуль\кр\AppFirst\AppSecond\obj\Debug\AppSecond.pdb
+C:\Users\xiaomi\Desktop\Work\C#\Семинар 4 модуль\кр\AppFirst\AppSecond\obj\Debug\AppSecond.csprojAssemblyReference.cache

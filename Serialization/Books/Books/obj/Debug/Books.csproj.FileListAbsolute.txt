@@ -1,0 +1,6 @@
+C:\Users\xiaomi\Desktop\Work\C#\Семинар 4 модуль\ср3 книги\Program\Books\obj\Debug\Books.csprojAssemblyReference.cache
+C:\Users\xiaomi\Desktop\Work\C#\Семинар 4 модуль\ср3 книги\Program\Books\bin\Debug\Books.exe.config
+C:\Users\xiaomi\Desktop\Work\C#\Семинар 4 модуль\ср3 книги\Program\Books\bin\Debug\Books.exe
+C:\Users\xiaomi\Desktop\Work\C#\Семинар 4 модуль\ср3 книги\Program\Books\bin\Debug\Books.pdb
+C:\Users\xiaomi\Desktop\Work\C#\Семинар 4 модуль\ср3 книги\Program\Books\obj\Debug\Books.exe
+C:\Users\xiaomi\Desktop\Work\C#\Семинар 4 модуль\ср3 книги\Program\Books\obj\Debug\Books.pdb

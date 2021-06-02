@@ -1,0 +1,7 @@
+C:\Users\xiaomi\Desktop\Учеба\C#\Полезное\Полезное\Считать массив из файла\obj\Debug\Считать массив из файла.csprojAssemblyReference.cache
+C:\Users\xiaomi\Desktop\Учеба\C#\Полезное\Полезное\Считать массив из файла\obj\Debug\Считать массив из файла.csproj.CoreCompileInputs.cache
+C:\Users\xiaomi\Desktop\Учеба\C#\Полезное\Полезное\Считать массив из файла\bin\Debug\Считать массив из файла.exe.config
+C:\Users\xiaomi\Desktop\Учеба\C#\Полезное\Полезное\Считать массив из файла\bin\Debug\Считать массив из файла.exe
+C:\Users\xiaomi\Desktop\Учеба\C#\Полезное\Полезное\Считать массив из файла\bin\Debug\Считать массив из файла.pdb
+C:\Users\xiaomi\Desktop\Учеба\C#\Полезное\Полезное\Считать массив из файла\obj\Debug\Считать массив из файла.exe
+C:\Users\xiaomi\Desktop\Учеба\C#\Полезное\Полезное\Считать массив из файла\obj\Debug\Считать массив из файла.pdb

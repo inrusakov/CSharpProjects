@@ -1,0 +1,7 @@
+C:\Users\xiaomi\Desktop\Учеба\C#\Полезное\Полезное\Запись в файл\obj\Debug\Запись в файл.csprojAssemblyReference.cache
+C:\Users\xiaomi\Desktop\Учеба\C#\Полезное\Полезное\Запись в файл\obj\Debug\Запись в файл.csproj.CoreCompileInputs.cache
+C:\Users\xiaomi\Desktop\Учеба\C#\Полезное\Полезное\Запись в файл\bin\Debug\Запись в файл.exe.config
+C:\Users\xiaomi\Desktop\Учеба\C#\Полезное\Полезное\Запись в файл\bin\Debug\Запись в файл.exe
+C:\Users\xiaomi\Desktop\Учеба\C#\Полезное\Полезное\Запись в файл\bin\Debug\Запись в файл.pdb
+C:\Users\xiaomi\Desktop\Учеба\C#\Полезное\Полезное\Запись в файл\obj\Debug\Запись в файл.exe
+C:\Users\xiaomi\Desktop\Учеба\C#\Полезное\Полезное\Запись в файл\obj\Debug\Запись в файл.pdb

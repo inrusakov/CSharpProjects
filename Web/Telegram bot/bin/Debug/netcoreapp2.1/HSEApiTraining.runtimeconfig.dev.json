@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\xiaomi\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\xiaomi\\.nuget\\packages"
+    ]
+  }
+}

@@ -1,0 +1,28 @@
+C:\Users\xiaomi\Desktop\Work\2 курс\Алгосы\1 модуль\Palindrome\Palindrome\bin\Debug\Palindrome.exe.config
+C:\Users\xiaomi\Desktop\Work\2 курс\Алгосы\1 модуль\Palindrome\Palindrome\bin\Debug\Palindrome.exe
+C:\Users\xiaomi\Desktop\Work\2 курс\Алгосы\1 модуль\Palindrome\Palindrome\bin\Debug\Palindrome.pdb
+C:\Users\xiaomi\Desktop\Work\2 курс\Алгосы\1 модуль\Palindrome\Palindrome\obj\Debug\Palindrome.csprojAssemblyReference.cache
+C:\Users\xiaomi\Desktop\Work\2 курс\Алгосы\1 модуль\Palindrome\Palindrome\obj\Debug\Palindrome.csproj.CoreCompileInputs.cache
+C:\Users\xiaomi\Desktop\Work\2 курс\Алгосы\1 модуль\Palindrome\Palindrome\obj\Debug\Palindrome.exe
+C:\Users\xiaomi\Desktop\Work\2 курс\Алгосы\1 модуль\Palindrome\Palindrome\obj\Debug\Palindrome.pdb
+C:\Users\xiaomi\Desktop\Work\2 курс\Алгосы\1 модуль\Manecher's Algorithm\Palindrome\Palindrome\bin\Debug\Palindrome.exe.config
+C:\Users\xiaomi\Desktop\Work\2 курс\Алгосы\1 модуль\Manecher's Algorithm\Palindrome\Palindrome\bin\Debug\Palindrome.exe
+C:\Users\xiaomi\Desktop\Work\2 курс\Алгосы\1 модуль\Manecher's Algorithm\Palindrome\Palindrome\bin\Debug\Palindrome.pdb
+C:\Users\xiaomi\Desktop\Work\2 курс\Алгосы\1 модуль\Manecher's Algorithm\Palindrome\Palindrome\obj\Debug\Palindrome.csprojAssemblyReference.cache
+C:\Users\xiaomi\Desktop\Work\2 курс\Алгосы\1 модуль\Manecher's Algorithm\Palindrome\Palindrome\obj\Debug\Palindrome.csproj.CoreCompileInputs.cache
+C:\Users\xiaomi\Desktop\Work\2 курс\Алгосы\1 модуль\Manecher's Algorithm\Palindrome\Palindrome\obj\Debug\Palindrome.exe
+C:\Users\xiaomi\Desktop\Work\2 курс\Алгосы\1 модуль\Manecher's Algorithm\Palindrome\Palindrome\obj\Debug\Palindrome.pdb
+C:\Users\xiaomi\Desktop\Work\2 course\Algorithms\1 module\Manecher's Algorithm\Palindrome\Palindrome\bin\Debug\Palindrome.exe.config
+C:\Users\xiaomi\Desktop\Work\2 course\Algorithms\1 module\Manecher's Algorithm\Palindrome\Palindrome\bin\Debug\Palindrome.exe
+C:\Users\xiaomi\Desktop\Work\2 course\Algorithms\1 module\Manecher's Algorithm\Palindrome\Palindrome\bin\Debug\Palindrome.pdb
+C:\Users\xiaomi\Desktop\Work\2 course\Algorithms\1 module\Manecher's Algorithm\Palindrome\Palindrome\obj\Debug\Palindrome.csprojAssemblyReference.cache
+C:\Users\xiaomi\Desktop\Work\2 course\Algorithms\1 module\Manecher's Algorithm\Palindrome\Palindrome\obj\Debug\Palindrome.csproj.CoreCompileInputs.cache
+C:\Users\xiaomi\Desktop\Work\2 course\Algorithms\1 module\Manecher's Algorithm\Palindrome\Palindrome\obj\Debug\Palindrome.exe
+C:\Users\xiaomi\Desktop\Work\2 course\Algorithms\1 module\Manecher's Algorithm\Palindrome\Palindrome\obj\Debug\Palindrome.pdb
+C:\Users\xiaomi\Desktop\Work\2 course\Algorithms\1 module\Manecher's Algorithm\Palindrome C#\Palindrome\bin\Debug\Palindrome.exe.config
+C:\Users\xiaomi\Desktop\Work\2 course\Algorithms\1 module\Manecher's Algorithm\Palindrome C#\Palindrome\bin\Debug\Palindrome.exe
+C:\Users\xiaomi\Desktop\Work\2 course\Algorithms\1 module\Manecher's Algorithm\Palindrome C#\Palindrome\bin\Debug\Palindrome.pdb
+C:\Users\xiaomi\Desktop\Work\2 course\Algorithms\1 module\Manecher's Algorithm\Palindrome C#\Palindrome\obj\Debug\Palindrome.csprojAssemblyReference.cache
+C:\Users\xiaomi\Desktop\Work\2 course\Algorithms\1 module\Manecher's Algorithm\Palindrome C#\Palindrome\obj\Debug\Palindrome.csproj.CoreCompileInputs.cache
+C:\Users\xiaomi\Desktop\Work\2 course\Algorithms\1 module\Manecher's Algorithm\Palindrome C#\Palindrome\obj\Debug\Palindrome.exe
+C:\Users\xiaomi\Desktop\Work\2 course\Algorithms\1 module\Manecher's Algorithm\Palindrome C#\Palindrome\obj\Debug\Palindrome.pdb

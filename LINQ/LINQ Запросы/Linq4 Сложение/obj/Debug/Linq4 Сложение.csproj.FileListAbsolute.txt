@@ -1,0 +1,6 @@
+C:\Users\xiaomi\Desktop\Учеба\C#\Семинар 3 модуль\Работа на семинарах\Pipeline Linq Icomparable\Linq4 Сложение\bin\Debug\Linq4 Сложение.exe.config
+C:\Users\xiaomi\Desktop\Учеба\C#\Семинар 3 модуль\Работа на семинарах\Pipeline Linq Icomparable\Linq4 Сложение\bin\Debug\Linq4 Сложение.exe
+C:\Users\xiaomi\Desktop\Учеба\C#\Семинар 3 модуль\Работа на семинарах\Pipeline Linq Icomparable\Linq4 Сложение\bin\Debug\Linq4 Сложение.pdb
+C:\Users\xiaomi\Desktop\Учеба\C#\Семинар 3 модуль\Работа на семинарах\Pipeline Linq Icomparable\Linq4 Сложение\obj\Debug\Linq4 Сложение.csprojAssemblyReference.cache
+C:\Users\xiaomi\Desktop\Учеба\C#\Семинар 3 модуль\Работа на семинарах\Pipeline Linq Icomparable\Linq4 Сложение\obj\Debug\Linq4 Сложение.exe
+C:\Users\xiaomi\Desktop\Учеба\C#\Семинар 3 модуль\Работа на семинарах\Pipeline Linq Icomparable\Linq4 Сложение\obj\Debug\Linq4 Сложение.pdb

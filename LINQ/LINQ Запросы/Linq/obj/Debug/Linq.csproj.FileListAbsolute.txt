@@ -1,0 +1,12 @@
+C:\Users\xiaomi\Desktop\Учеба\C#\Семинар 3 модуль\Работа на семинарах\Семинар 2\Linq\bin\Debug\Linq.exe.config
+C:\Users\xiaomi\Desktop\Учеба\C#\Семинар 3 модуль\Работа на семинарах\Семинар 2\Linq\bin\Debug\Linq.exe
+C:\Users\xiaomi\Desktop\Учеба\C#\Семинар 3 модуль\Работа на семинарах\Семинар 2\Linq\bin\Debug\Linq.pdb
+C:\Users\xiaomi\Desktop\Учеба\C#\Семинар 3 модуль\Работа на семинарах\Семинар 2\Linq\obj\Debug\Linq.csprojAssemblyReference.cache
+C:\Users\xiaomi\Desktop\Учеба\C#\Семинар 3 модуль\Работа на семинарах\Семинар 2\Linq\obj\Debug\Linq.exe
+C:\Users\xiaomi\Desktop\Учеба\C#\Семинар 3 модуль\Работа на семинарах\Семинар 2\Linq\obj\Debug\Linq.pdb
+C:\Users\xiaomi\Desktop\Учеба\C#\Семинар 3 модуль\Работа на семинарах\Pipeline Linq Icomparable\Linq\bin\Debug\Linq.exe.config
+C:\Users\xiaomi\Desktop\Учеба\C#\Семинар 3 модуль\Работа на семинарах\Pipeline Linq Icomparable\Linq\bin\Debug\Linq.exe
+C:\Users\xiaomi\Desktop\Учеба\C#\Семинар 3 модуль\Работа на семинарах\Pipeline Linq Icomparable\Linq\bin\Debug\Linq.pdb
+C:\Users\xiaomi\Desktop\Учеба\C#\Семинар 3 модуль\Работа на семинарах\Pipeline Linq Icomparable\Linq\obj\Debug\Linq.csprojAssemblyReference.cache
+C:\Users\xiaomi\Desktop\Учеба\C#\Семинар 3 модуль\Работа на семинарах\Pipeline Linq Icomparable\Linq\obj\Debug\Linq.exe
+C:\Users\xiaomi\Desktop\Учеба\C#\Семинар 3 модуль\Работа на семинарах\Pipeline Linq Icomparable\Linq\obj\Debug\Linq.pdb

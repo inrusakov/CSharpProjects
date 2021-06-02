@@ -1,0 +1,14 @@
+C:\Users\xiaomi\Desktop\Work\2 курс\Алгосы\1 модуль\Graham Algorithm\Graham algorithm\Graham algorithm\bin\Debug\Graham algorithm.exe.config
+C:\Users\xiaomi\Desktop\Work\2 курс\Алгосы\1 модуль\Graham Algorithm\Graham algorithm\Graham algorithm\bin\Debug\Graham algorithm.exe
+C:\Users\xiaomi\Desktop\Work\2 курс\Алгосы\1 модуль\Graham Algorithm\Graham algorithm\Graham algorithm\bin\Debug\Graham algorithm.pdb
+C:\Users\xiaomi\Desktop\Work\2 курс\Алгосы\1 модуль\Graham Algorithm\Graham algorithm\Graham algorithm\obj\Debug\Graham algorithm.csprojAssemblyReference.cache
+C:\Users\xiaomi\Desktop\Work\2 курс\Алгосы\1 модуль\Graham Algorithm\Graham algorithm\Graham algorithm\obj\Debug\Graham algorithm.csproj.CoreCompileInputs.cache
+C:\Users\xiaomi\Desktop\Work\2 курс\Алгосы\1 модуль\Graham Algorithm\Graham algorithm\Graham algorithm\obj\Debug\Graham algorithm.exe
+C:\Users\xiaomi\Desktop\Work\2 курс\Алгосы\1 модуль\Graham Algorithm\Graham algorithm\Graham algorithm\obj\Debug\Graham algorithm.pdb
+C:\Users\xiaomi\Desktop\Work\2 course\Algorithms\1 module\Graham Algorithm\Graham algorithm\Graham algorithm\bin\Debug\Graham algorithm.exe.config
+C:\Users\xiaomi\Desktop\Work\2 course\Algorithms\1 module\Graham Algorithm\Graham algorithm\Graham algorithm\bin\Debug\Graham algorithm.exe
+C:\Users\xiaomi\Desktop\Work\2 course\Algorithms\1 module\Graham Algorithm\Graham algorithm\Graham algorithm\bin\Debug\Graham algorithm.pdb
+C:\Users\xiaomi\Desktop\Work\2 course\Algorithms\1 module\Graham Algorithm\Graham algorithm\Graham algorithm\obj\Debug\Graham algorithm.csprojAssemblyReference.cache
+C:\Users\xiaomi\Desktop\Work\2 course\Algorithms\1 module\Graham Algorithm\Graham algorithm\Graham algorithm\obj\Debug\Graham algorithm.csproj.CoreCompileInputs.cache
+C:\Users\xiaomi\Desktop\Work\2 course\Algorithms\1 module\Graham Algorithm\Graham algorithm\Graham algorithm\obj\Debug\Graham algorithm.exe
+C:\Users\xiaomi\Desktop\Work\2 course\Algorithms\1 module\Graham Algorithm\Graham algorithm\Graham algorithm\obj\Debug\Graham algorithm.pdb

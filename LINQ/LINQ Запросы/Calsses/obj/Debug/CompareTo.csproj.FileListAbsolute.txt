@@ -1,0 +1,6 @@
+C:\Users\xiaomi\Desktop\Учеба\C#\Семинар 3 модуль\Работа на семинарах\Pipeline Linq Icomparable\Calsses\bin\Debug\Calsses.exe.config
+C:\Users\xiaomi\Desktop\Учеба\C#\Семинар 3 модуль\Работа на семинарах\Pipeline Linq Icomparable\Calsses\bin\Debug\Calsses.exe
+C:\Users\xiaomi\Desktop\Учеба\C#\Семинар 3 модуль\Работа на семинарах\Pipeline Linq Icomparable\Calsses\bin\Debug\Calsses.pdb
+C:\Users\xiaomi\Desktop\Учеба\C#\Семинар 3 модуль\Работа на семинарах\Pipeline Linq Icomparable\Calsses\obj\Debug\CompareTo.csprojAssemblyReference.cache
+C:\Users\xiaomi\Desktop\Учеба\C#\Семинар 3 модуль\Работа на семинарах\Pipeline Linq Icomparable\Calsses\obj\Debug\Calsses.exe
+C:\Users\xiaomi\Desktop\Учеба\C#\Семинар 3 модуль\Работа на семинарах\Pipeline Linq Icomparable\Calsses\obj\Debug\Calsses.pdb

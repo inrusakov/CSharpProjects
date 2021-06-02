@@ -1,0 +1,13 @@
+C:\Users\xiaomi\Desktop\Учеба\C#\Лабораторные\Покемоны\Pokemon\Pokemon\bin\Debug\Pokemon.exe.config
+C:\Users\xiaomi\Desktop\Учеба\C#\Лабораторные\Покемоны\Pokemon\Pokemon\bin\Debug\Pokemon.exe
+C:\Users\xiaomi\Desktop\Учеба\C#\Лабораторные\Покемоны\Pokemon\Pokemon\bin\Debug\Pokemon.pdb
+C:\Users\xiaomi\Desktop\Учеба\C#\Лабораторные\Покемоны\Pokemon\Pokemon\obj\Debug\Pokemon.csprojAssemblyReference.cache
+C:\Users\xiaomi\Desktop\Учеба\C#\Лабораторные\Покемоны\Pokemon\Pokemon\obj\Debug\Pokemon.exe
+C:\Users\xiaomi\Desktop\Учеба\C#\Лабораторные\Покемоны\Pokemon\Pokemon\obj\Debug\Pokemon.pdb
+C:\Users\xiaomi\Desktop\Work\1 course\C#\Лабораторные\Покемоны\Pokemon\Pokemon\bin\Debug\Pokemon.exe.config
+C:\Users\xiaomi\Desktop\Work\1 course\C#\Лабораторные\Покемоны\Pokemon\Pokemon\bin\Debug\Pokemon.exe
+C:\Users\xiaomi\Desktop\Work\1 course\C#\Лабораторные\Покемоны\Pokemon\Pokemon\bin\Debug\Pokemon.pdb
+C:\Users\xiaomi\Desktop\Work\1 course\C#\Лабораторные\Покемоны\Pokemon\Pokemon\obj\Debug\Pokemon.csprojAssemblyReference.cache
+C:\Users\xiaomi\Desktop\Work\1 course\C#\Лабораторные\Покемоны\Pokemon\Pokemon\obj\Debug\Pokemon.csproj.CoreCompileInputs.cache
+C:\Users\xiaomi\Desktop\Work\1 course\C#\Лабораторные\Покемоны\Pokemon\Pokemon\obj\Debug\Pokemon.exe
+C:\Users\xiaomi\Desktop\Work\1 course\C#\Лабораторные\Покемоны\Pokemon\Pokemon\obj\Debug\Pokemon.pdb

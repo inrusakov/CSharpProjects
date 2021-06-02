@@ -1,0 +1,6 @@
+C:\Users\xiaomi\Desktop\Учеба\C#\Семинар 3 модуль\Работа на семинарах\Pipeline Linq Icomparable\Linq3 Проекция\bin\Debug\Linq3 Проекция.exe.config
+C:\Users\xiaomi\Desktop\Учеба\C#\Семинар 3 модуль\Работа на семинарах\Pipeline Linq Icomparable\Linq3 Проекция\bin\Debug\Linq3 Проекция.exe
+C:\Users\xiaomi\Desktop\Учеба\C#\Семинар 3 модуль\Работа на семинарах\Pipeline Linq Icomparable\Linq3 Проекция\bin\Debug\Linq3 Проекция.pdb
+C:\Users\xiaomi\Desktop\Учеба\C#\Семинар 3 модуль\Работа на семинарах\Pipeline Linq Icomparable\Linq3 Проекция\obj\Debug\Linq3 Проекция.exe
+C:\Users\xiaomi\Desktop\Учеба\C#\Семинар 3 модуль\Работа на семинарах\Pipeline Linq Icomparable\Linq3 Проекция\obj\Debug\Linq3 Проекция.pdb
+C:\Users\xiaomi\Desktop\Учеба\C#\Семинар 3 модуль\Работа на семинарах\Pipeline Linq Icomparable\Linq3 Проекция\obj\Debug\Linq3 Проекция.csprojAssemblyReference.cache

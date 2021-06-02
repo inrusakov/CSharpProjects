@@ -1,0 +1,7 @@
+C:\Users\xiaomi\Desktop\Учеба\C#\Полезное\Полезное\Чтение из файла\obj\Debug\Чтение из файла.csprojAssemblyReference.cache
+C:\Users\xiaomi\Desktop\Учеба\C#\Полезное\Полезное\Чтение из файла\obj\Debug\Чтение из файла.csproj.CoreCompileInputs.cache
+C:\Users\xiaomi\Desktop\Учеба\C#\Полезное\Полезное\Чтение из файла\bin\Debug\Чтение из файла.exe.config
+C:\Users\xiaomi\Desktop\Учеба\C#\Полезное\Полезное\Чтение из файла\bin\Debug\Чтение из файла.exe
+C:\Users\xiaomi\Desktop\Учеба\C#\Полезное\Полезное\Чтение из файла\bin\Debug\Чтение из файла.pdb
+C:\Users\xiaomi\Desktop\Учеба\C#\Полезное\Полезное\Чтение из файла\obj\Debug\Чтение из файла.exe
+C:\Users\xiaomi\Desktop\Учеба\C#\Полезное\Полезное\Чтение из файла\obj\Debug\Чтение из файла.pdb

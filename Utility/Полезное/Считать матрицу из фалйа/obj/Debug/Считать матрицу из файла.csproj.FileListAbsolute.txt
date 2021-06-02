@@ -1,0 +1,6 @@
+C:\Users\xiaomi\Desktop\Учеба\C#\Полезное\Полезное\Считать матрицу из фалйа\bin\Debug\Считать матрицу из фалйа.exe.config
+C:\Users\xiaomi\Desktop\Учеба\C#\Полезное\Полезное\Считать матрицу из фалйа\bin\Debug\Считать матрицу из фалйа.exe
+C:\Users\xiaomi\Desktop\Учеба\C#\Полезное\Полезное\Считать матрицу из фалйа\bin\Debug\Считать матрицу из фалйа.pdb
+C:\Users\xiaomi\Desktop\Учеба\C#\Полезное\Полезное\Считать матрицу из фалйа\obj\Debug\Считать матрицу из файла.csproj.CoreCompileInputs.cache
+C:\Users\xiaomi\Desktop\Учеба\C#\Полезное\Полезное\Считать матрицу из фалйа\obj\Debug\Считать матрицу из фалйа.exe
+C:\Users\xiaomi\Desktop\Учеба\C#\Полезное\Полезное\Считать матрицу из фалйа\obj\Debug\Считать матрицу из фалйа.pdb

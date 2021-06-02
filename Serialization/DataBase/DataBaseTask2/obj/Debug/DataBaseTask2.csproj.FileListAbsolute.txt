@@ -1,0 +1,16 @@
+C:\Users\mgordenko\source\repos\CSharp2018-2019\4module\DataBaseTask2\DataBaseTask2\bin\Debug\DataBaseTask2.exe.config
+C:\Users\mgordenko\source\repos\CSharp2018-2019\4module\DataBaseTask2\DataBaseTask2\bin\Debug\DataBaseTask2.exe
+C:\Users\mgordenko\source\repos\CSharp2018-2019\4module\DataBaseTask2\DataBaseTask2\bin\Debug\DataBaseTask2.pdb
+C:\Users\mgordenko\source\repos\CSharp2018-2019\4module\DataBaseTask2\DataBaseTask2\obj\Debug\DataBaseTask2.csprojAssemblyReference.cache
+C:\Users\mgordenko\source\repos\CSharp2018-2019\4module\DataBaseTask2\DataBaseTask2\obj\Debug\DataBaseTask2.csproj.CoreCompileInputs.cache
+C:\Users\mgordenko\source\repos\CSharp2018-2019\4module\DataBaseTask2\DataBaseTask2\obj\Debug\DataBaseTask2.exe
+C:\Users\mgordenko\source\repos\CSharp2018-2019\4module\DataBaseTask2\DataBaseTask2\obj\Debug\DataBaseTask2.pdb
+C:\Users\xiaomi\Desktop\Work\C#\Семинар 4 модуль\ср2 БД\DataBaseTask2\bin\Debug\DataBaseTask2.exe.config
+C:\Users\xiaomi\Desktop\Work\C#\Семинар 4 модуль\ср2 БД\DataBaseTask2\bin\Debug\DataBaseTask2.exe
+C:\Users\xiaomi\Desktop\Work\C#\Семинар 4 модуль\ср2 БД\DataBaseTask2\bin\Debug\DataBaseTask2.pdb
+C:\Users\xiaomi\Desktop\Work\C#\Семинар 4 модуль\ср2 БД\DataBaseTask2\obj\Debug\DataBaseTask2.csprojAssemblyReference.cache
+C:\Users\xiaomi\Desktop\Work\C#\Семинар 4 модуль\ср2 БД\DataBaseTask2\obj\Debug\DataBaseTask2.exe
+C:\Users\xiaomi\Desktop\Work\C#\Семинар 4 модуль\ср2 БД\DataBaseTask2\obj\Debug\DataBaseTask2.pdb
+C:\Users\xiaomi\Desktop\Work\C#\Семинар 4 модуль\ср2 БД\DataBaseTask2\bin\Debug\Newtonsoft.Json.dll
+C:\Users\xiaomi\Desktop\Work\C#\Семинар 4 модуль\ср2 БД\DataBaseTask2\bin\Debug\Newtonsoft.Json.xml
+C:\Users\xiaomi\Desktop\Work\C#\Семинар 4 модуль\ср2 БД\DataBaseTask2\obj\Debug\DataBaseTask2.csproj.CopyComplete
